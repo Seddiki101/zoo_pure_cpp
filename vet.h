@@ -24,7 +24,7 @@ int getID()const{return id;}
 vector <int> getabm() const{return tabm;}
 veterinaire operator+=(const veterinaire &m);
 void affichervet();
-bool searchAnimal(int);
+int searchAnimal(int);
 bool ajoutanimat(int);
 };
 

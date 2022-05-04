@@ -55,7 +55,8 @@ return false;
 
 bool zoo::AjouDateVacc (int idd,string d)
 {
-int res=rechercherVet(idd);
+int res=rechercherAnimal(idd);
+
 if (res!= -1)
 {
 taba[res].Ajoutdate(d);

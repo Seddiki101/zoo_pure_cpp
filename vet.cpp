@@ -23,7 +23,7 @@ cout <<"vet id " << id << endl;
 cout << "\n" ;
 }
 
-bool veterinaire::searchAnimal(int m)
+int veterinaire::searchAnimal(int m)
 {
 for(int i=0;i<tabm.size();i++)
 {

@@ -1,1 +1,2 @@
 CLI app
+basic tutorial

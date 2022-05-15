@@ -1,1 +1,1 @@
-all gud
+CLI app
